@@ -1,0 +1,7 @@
+*
+!*/
+!**/
+!.gitignore
+!**/.gitignore
+!docker-compose.yml
+!copyparty/copyparty.conf
